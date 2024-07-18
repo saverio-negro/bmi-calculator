@@ -4,12 +4,12 @@
 
 ### Keep track of your Body Mass Index (BMI) and stay in shape.
 
-### Destini is a little storytelling app. You get to follow a story path depending on which answer you choose.
+### BMI Calculator works out your Body Mass Index (BMI) and gives you little and funny diet advice.
 
 <img src="./images/bmi-calculator.gif" width="25%" height="25%"/>
 
 The App was built while attending the course on iOS Development issued by Angela Yu from <a href="https://appbrewery.com/">The App Brewery</a>.
 
-Note: All credits regarding the assets for the UI of the Destini app go to <a href="https://appbrewery.com/">The App Brewery</a>.
+Note: All credits regarding the assets for the UI of the BMI Calculator app go to <a href="https://appbrewery.com/">The App Brewery</a>.
 
 
